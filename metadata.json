@@ -1,0 +1,6 @@
+{
+  "name": "Zaiqa Flame",
+  "description": "Contemporary restaurant and online ordering experience featuring Fast Food, Biryani, Gol Gappay, Chaat, and Fresh Drinks with instant WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
